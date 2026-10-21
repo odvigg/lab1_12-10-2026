@@ -1,0 +1,17 @@
+# dati CILINDRI
+m_c =([2.383, 5.675, 15.858])
+sigma_m_c = (0.001)
+diametro =([7.90, 12.16, 19.85])
+sigma_diam = (0.01)
+altezza = ([18.11, 18.04, 19.6])
+sigma_altezza = (0.01)
+raggio = diametro/2.0
+sigma_raggio = sigma_diam/2.0
+
+# dati PARALLELEPIPEDI
+m_p = ([4.771, 10.288])
+sigma_m_p = (0.001)
+larghezza = ([10.06, 19.98])
+lunghezza = ([17.62, 19.96])
+profondità = ([10.06, 10.17])
+sigma_lato = 0.01
