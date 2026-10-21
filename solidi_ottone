@@ -1,0 +1,25 @@
+# dati PRISMA
+m_pr = ([16.422])
+sigma_m_pr = (0.001)
+h_pr = ([22.76])
+sigma_h_pr = (0.01)
+l_pr = ([5.64])
+sigma_l_pr = (0.01)
+
+# dati PARALLELEPIPEDO
+m_par = ([4.707])
+sigma_m_par = (0.001)
+l_lungo = ([22.58])
+sigma_l_lungo = (0.01)
+l_corto= ([5.49])
+sigma_l_corto= (0.01)
+
+# dati CILINDRI
+m_cil = ([2.338, 24.600, 10.702])
+sigma_m_cil = (0.001)
+d = ([6.45, 10.1, 10.05])
+sigma_d = (0.01)
+h_cil= ([10.02, 37.5, 16.32])
+sigma_h_cil= (0.01)
+r = d / 2.0
+sigma_r = sigma_d / 2.0
